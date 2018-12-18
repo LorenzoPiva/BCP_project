@@ -13,11 +13,11 @@
 
 <ul>
   <li>Ricerca di eventuali servizi API comode da utilizzare</li>
-  <li>Realizzazione backend (lato server)</li>
+  <li><b>Realizzazione backend (lato server)</b></li>
   <li>-->Implementazione API esterne per ricavare i dati</li>
   <li>-->Elaborazione e riorganizzazione delle API esterne</li>
   <li>-->Realizzo API proprietarie per interagire col frontend</li>
-  <li>Realizzazione frontend(lato client)</li>
+  <li><b>Realizzazione frontend(lato client)</b></li>
   <li>-->Ricerca template da utilizzare per il sitoweb</li>
   <li>-->Ricerca animazioni da utilizzare</li>
   <li>-->Realizzazione pagina primaria</li>
