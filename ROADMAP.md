@@ -16,10 +16,11 @@
   <li>Realizzazione backend (lato server)</li>
   <li>-->Implementazione API esterne per ricavare i dati</li>
   <li>-->Elaborazione e riorganizzazione delle API esterne</li>
-  <li>Realizzo API proprietarie per interagire col frontend</li>
-
-Realizzazione frontend(lato client)
-Ricerca template da utilizzare per il sitoweb
-Ricerca animazioni da utilizzare
-Realizzazione pagina primaria
-Riorganizzazione grafica ed ottimizzazione
+  <li>-->Realizzo API proprietarie per interagire col frontend</li>
+  <li>Realizzazione frontend(lato client)</li>
+  <li>-->Ricerca template da utilizzare per il sitoweb</li>
+  <li>-->Ricerca animazioni da utilizzare</li>
+  <li>-->Realizzazione pagina primaria</li>
+  <li>-->Riorganizzazione grafica ed ottimizzazione</li>
+</ul>
+ 
