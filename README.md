@@ -5,13 +5,15 @@
 Ogni gruppo definisce un titolo progetto (< 100 caratteri) e una descrizione( <500 caratteri)
 
 ## Partecipanti
-Elenco partecipanti
+Luigi Di Benedetto
+Lorenzo Piva
+Luca Laudicina
 
 ## Ruoli
 
-* PROJECT_MANAGER = 
-* DOCUMENTAZIONE = 
-* CSS = 
+* PROJECT_MANAGER = Luigi Di Benedetto
+* DOCUMENTAZIONE = Lorenzo Piva
+* CSS = Luca Laudicina
 
 ## Regolamento
 * Ogni gruppo consegnerà il link ad un repository GIT che sarà un fork di questo progetto.
