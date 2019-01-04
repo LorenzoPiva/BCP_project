@@ -1,1 +1,31 @@
-
+.square {
+        width: 220px;
+        height: 220px;
+        background: #F1C23A;
+        border: 5px solid #ff9933;
+        border-radius: 100%;
+        
+        position: relative;
+        text-align: center;
+    }
+    .content {
+        top: 50%;
+    }
+    .tabella {
+        position:relative;
+        border: 0px;
+        border-collapse: separate;
+        border-spacing: 100px;
+        
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        
+    }
+    .logo {
+        width: 50%;
+    }
+    
+    body {
+        background-color: #cce6ff;
+    }
