@@ -1,6 +1,8 @@
 # Scheletro per i lavori di gruppo
 
 ## Titolo progetto 
+Una piattaforma web con lo scopo di mostrare all’utente il miglior prezzo per comprare Bitcoin secondo i diversi mercati online meglio noti come exchange.
+Inoltre la piattaforma metterà a disposizione diverse API proprietarie per poter interagire con essa e prelevare le informazioni per eventuali ulteriori utilizzi terzi esterni.
 
 Ogni gruppo definisce un titolo progetto (< 100 caratteri) e una descrizione( <500 caratteri)
 
