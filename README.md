@@ -1,6 +1,6 @@
 # Scheletro per i lavori di gruppo
 
-## Titolo progetto 
+## Best Crypto Price
 
 Piattaforma web con lo scopo di mostrare all’utente il miglior prezzo per comprare Bitcoin secondo i diversi mercati online meglio noti come exchange.
 Inoltre la piattaforma metterà a disposizione diverse API proprietarie per poter interagire con essa e prelevare le informazioni per eventuali ulteriori utilizzi terzi esterni.
