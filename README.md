@@ -18,6 +18,9 @@ Luca Laudicina
 * PROJECT_MANAGER = Luigi Di Benedetto
 * DOCUMENTAZIONE = Lorenzo Piva
 * CSS = Luca Laudicina
+* JS/PHP = Luigi Di Benedetto
+* UI/UX DESIGN = Luca Laudicina | Luigi Di Benedetto
+* CREATIVE DESIGNER = Lorenzo Piva | Luca Laudicina
 
 ## Regolamento
 * Ogni gruppo consegnerà il link ad un repository GIT che sarà un fork di questo progetto.
