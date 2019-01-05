@@ -13,8 +13,8 @@ Come utente voglio visualizzare la lista articoli
   per eventualmente effettuare operazioni di <b>arbitraggio</b></h2
 <h2>Come utente voglio sfruttare le API per: 1) ricreare un'ambiente dinamico simile alla piattaforma BCP <br>
   2) Creare dei bot ed interagire con gli exchange interessati per operazioni di arbitraggio <br>
-  3) Visualizzare sempre il miglior o il peggior exchange dove acquistare in un determinato momento crypto.
-  4) La fantasia è l'unico limite... !!
+  3) Visualizzare sempre il miglior o il peggior exchange dove acquistare in un determinato momento crypto.<br>
+  4) La fantasia è l'unico limite... !!</h2>
 
 
 # CASI D'USO
