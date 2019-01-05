@@ -2,7 +2,7 @@
 
 ## Best Crypto Price
 
-Piattaforma web con lo scopo di mostrare all’utente il miglior prezzo per comprare Bitcoin secondo i diversi mercati online meglio noti come exchange.
+Piattaforma web con lo scopo di mostrare all’utente i prezzi secondo i diversi mercati online meglio noti come exchange, dal più al meno conveniente, per comprare crypto come Bitcoin o Ethereum.
 Inoltre la piattaforma metterà a disposizione diverse API proprietarie per poter interagire con essa e prelevare le informazioni per eventuali ulteriori utilizzi terzi esterni.
 
 
