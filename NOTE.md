@@ -10,7 +10,7 @@ Come utente voglio visualizzare la lista articoli
 <h2>Come utente inesperto voglio informarmi sui principali exchange che mi permettono di acquistare cryptovalute.</h2>
 <h2>Come utente voglio tenermi aggiornato sulle varie oscillazioni dei prezzi dei vari exchange <b>in tempo reale</b>.</h2>
 <h2>Come utente <b>trader</b> voglio, in tempo reale, essere aggiornato sull'exchange che offre il prezzo più alto ed il prezzo più basso
-  per eventualmente effettuare operazioni di <b>arbitraggio</b></h2
+  per eventualmente effettuare operazioni di <b>arbitraggio</b></h2>
 <h2>Come utente voglio sfruttare le API per:</h2> 
 <h3>1) ricreare un'ambiente dinamico simile alla piattaforma BCP</h3>
 <h3>2) Creare dei bot ed interagire con gli exchange interessati per operazioni di arbitraggio</h3>
