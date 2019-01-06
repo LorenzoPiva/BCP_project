@@ -1,31 +1,69 @@
-.square {
-        width: 220px;
-        height: 220px;
-        background: #F1C23A;
-        border: 5px solid #ff9933;
-        border-radius: 100%;
+
+#wrapper{padding:90px 15px;}
+.navbar-expand-lg .navbar-nav.side-nav{flex-direction: column;}
+.card{margin-bottom: 15px; border-radius:0; box-shadow: 0 3px 5px rgba(0,0,0,.1); }
+.header-top{box-shadow: 0 3px 5px rgba(0,0,0,.1)}
+.leftmenutrigger{display: none}
+@media(min-width:992px) {
+.leftmenutrigger{display: block;display: block;margin: 7px 20px 4px 0;cursor: pointer;}
+#wrapper{padding: 90px 15px 15px 15px; }
+.navbar-nav.side-nav.open {left:0;}
+.navbar-nav.side-nav{background: #585f66;box-shadow: 2px 1px 2px rgba(0,0,0,.1);position:fixed;top:56px;flex-direction: column!important;left:-220px;width:200px;overflow-y:auto;bottom:0;overflow-x:hidden;padding-bottom:40px}
+}
+.animate{-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;-ms-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
+
+    
+    .classifica {
+       position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, 0%);
+  -o-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+    }
+    .square {
+        width: 200px;
+        height: 25%;
+        background: yellow;
+        border: 2px solid gray;
+        border-radius: 30%;
         
         position: relative;
         text-align: center;
+        top:100px;
     }
     .content {
-        top: 50%;
+        position: relative;
+        top: 25px;
     }
-    .tabella {
-        position:relative;
-        border: 0px;
-        border-collapse: separate;
-        border-spacing: 100px;
-        
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        
-    }
+    
     .logo {
-        width: 50%;
+        width: 90%;
     }
     
     body {
         background-color: #cce6ff;
     }
+  
+  
+/* Tables
+================================== */
+.Rtable {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 0 3em 0;
+  padding: 100;
+}
+.Rtable-cell {
+  box-sizing: border-box;
+  flex-grow: 1;
+  
+  padding: 0.8em 1.2em;
+  overflow: hidden;
+  list-style: none;
+  border: solid @bw white;
+  background: fade(slategrey,20%);
+  > h1, > h2, > h3, > h4, > h5, > h6 { margin: 5; }
+}
