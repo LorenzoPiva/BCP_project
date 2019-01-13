@@ -1,7 +1,7 @@
 # Scheletro per i lavori di gruppo
 
 ## Best Crypto Price
-
+<img src="IMG/logo.png">
 Piattaforma web con lo scopo di mostrare all’utente i prezzi secondo i diversi mercati online meglio noti come exchange, dal più al meno conveniente, per comprare crypto come Bitcoin o Ethereum.
 Inoltre la piattaforma metterà a disposizione diverse API proprietarie per poter interagire con essa e prelevare le informazioni per eventuali ulteriori utilizzi terzi esterni.
 
