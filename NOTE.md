@@ -20,8 +20,7 @@ Come utente voglio visualizzare la lista articoli
 
 # CASI D'USO
 
-Diagramma
-
+<img src="CaseDiagram.png">
 
 # DIAGRAMMI DI SEQUENZA
 
