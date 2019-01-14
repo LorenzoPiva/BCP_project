@@ -8,13 +8,13 @@ Inoltre la piattaforma metterà a disposizione diverse API proprietarie per pote
 
 
 
-## Partecipanti
+## Partecipanti  
 
-Luigi Di Benedetto
-Lorenzo Piva
-Luca Laudicina
+* Luigi Di Benedetto
+* Lorenzo Piva
+* Luca Laudicina
 
-## Ruoli
+## Ruoli  
 
 * PROJECT_MANAGER = Luigi Di Benedetto
 * DOCUMENTAZIONE = Lorenzo Piva
