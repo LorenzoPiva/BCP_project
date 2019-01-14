@@ -3,8 +3,7 @@
 ## Best Crypto Price
 <img src="IMG/logo_colorato.png">
 Piattaforma web con lo scopo di mostrare all’utente i prezzi secondo i diversi mercati online meglio noti come exchange, dal più al meno conveniente, per comprare crypto come Bitcoin o Ethereum.
-Inoltre la piattaforma metterà a disposizione diverse API proprietarie per poter interagire con essa e prelevare le informazioni per eventuali ulteriori utilizzi terzi esterni.
-
+Inoltre la piattaforma metterà a disposizione diverse API proprietarie per poter interagire con essa e prelevare le informazioni per eventuali ulteriori utilizzi terzi esterni. Le API forniranno il prezzo più conveniente per poter vendere e quello per comprare.
 
 
 
@@ -17,7 +16,7 @@ Luca Laudicina
 
 * PROJECT_MANAGER = Luigi Di Benedetto
 * DOCUMENTAZIONE = Lorenzo Piva
-* CSS = Luca Laudicina
+* CSS = Luca Laudicina 
 * JS/PHP = Luigi Di Benedetto
 * UI/UX DESIGN = Luca Laudicina | Luigi Di Benedetto
 * CREATIVE DESIGNER = Lorenzo Piva | Luca Laudicina
