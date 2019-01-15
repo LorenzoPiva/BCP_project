@@ -25,7 +25,4 @@ Come utente voglio visualizzare l'informazione fornita del programma/sito web:
 
 # DIAGRAMMI DI SEQUENZA
 
-[ ] AZIONE 1
-  [ ] step 1
-  [ ] step 2
-  ....
+<img src="SD.png">
