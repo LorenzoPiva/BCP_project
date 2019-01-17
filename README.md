@@ -3,9 +3,8 @@
 ## Best Crypto Price 
 
 <img src="IMG/logo_colorato.png">
-Piattaforma web con lo scopo di mostrare all’utente i prezzi secondo i diversi mercati online meglio noti come exchange, dal più al meno conveniente, per comprare crypto come per esempio: Bitcoin o Ethereum. </br>
-Inoltre la piattaforma fornirà diverse API proprietarie, in modo gratuito, per poter interagire con essa e prelevare le informazioni per eventuali ulteriori utilizzi terzi esterni. Esse forniranno il prezzo, del Bitcoin, più conveniente tra i mercati selezionati per poter effettuare operazioni di compravendita.
-
+Piattaforma web con lo scopo di mostrare all’utente i prezzi secondo i diversi mercati online, meglio noti come exchange, dal più al meno conveniente per comprare la crypto richiesta dall'utente che usufruisce della nostra pagina; come per esempio: Bitcoin o Ethereum. </br>
+Inoltre la piattaforma fornirà diverse API proprietarie, in modo gratuito, per poter interagire con essa e prelevare le informazioni per eventuali ulteriori utilizzi terzi esterni.
 
 
 ## Partecipanti  
