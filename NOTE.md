@@ -23,6 +23,7 @@ Come utente voglio visualizzare l'informazione fornita del programma/sito web:
 
 <img src="CD.png">
 
-# DIAGRAMMI DI SEQUENZA
+# DIAGRAMMA DI SEQUENZA
 
-<img src="SD.png">r
+<img src="SD.png">
+<h1> </h1>
