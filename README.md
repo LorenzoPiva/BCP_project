@@ -6,10 +6,10 @@
 Piattaforma web con lo scopo di mostrare all’utente i prezzi secondo i diversi mercati online, meglio noti come exchange, dal più al meno conveniente per comprare la crypto richiesta dall'utente che usufruisce della nostra pagina; come per esempio: Bitcoin o Ethereum. </br>
 Inoltre la piattaforma fornirà diverse API proprietarie, in modo gratuito, per poter interagire con essa e prelevare le informazioni per eventuali ulteriori utilizzi terzi esterni.
 
-##SCREENSHOT
-<img src="IMG/1.png">
-<img src="IMG/2.png">
-<img src="IMG/3.png">
+<h2>## SCREENSHOT</h2>
+<img src="IMG/1.PNG">
+<img src="IMG/2.PNG">
+<img src="IMG/3.PNG">
 ## Partecipanti  
 
 * Luigi Di Benedetto
