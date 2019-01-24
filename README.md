@@ -10,6 +10,7 @@ Inoltre la piattaforma fornirà diverse API proprietarie, in modo gratuito, per 
 <img src="IMG/1.PNG">
 <img src="IMG/2.PNG">
 <img src="IMG/3.PNG">
+<img src="IMG/4.PNG">
 ## Partecipanti  
 
 * Luigi Di Benedetto
